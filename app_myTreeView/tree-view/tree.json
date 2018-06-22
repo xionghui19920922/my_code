@@ -1,0 +1,765 @@
+{
+  "results": [
+    {
+      "title": "leader_avgcxl",
+      "type": "study",
+      "children": [
+        {
+          "id": "61011ff5",
+          "type": "batch",
+          "children": [
+            {
+              "batchId": "61011ff5",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_fb57.REF_a0b9afb2",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_fb57.REF_a0b9afb2",
+              "title": "AA03",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.fb57_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.fb57_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.fb57_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "61011ff5",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_eec9.REF_f177f85a",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_eec9.REF_f177f85a",
+              "title": "AA01",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.eec9_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.eec9_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.eec9_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            }
+          ],
+          "tooltip": "61011ff5",
+          "title": "batch-02"
+        },
+        {
+          "id": "9ef5370f",
+          "type": "batch",
+          "children": [
+            {
+              "batchId": "9ef5370f",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_fe50.REF_f64a419a",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_fe50.REF_f64a419a",
+              "title": "AA01",
+              "children": [
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.fe50_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.fe50_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.fe50_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            }
+          ],
+          "tooltip": "9ef5370f",
+          "title": "batch-03"
+        },
+        {
+          "title": "batch-04",
+          "type": "batch",
+          "children": [
+            {
+              "batchId": "ff8082ac",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_d820.REF_edf7a6cf",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_d820.REF_edf7a6cf",
+              "title": "AA01",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.d820_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.d820_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.d820_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            }
+          ],
+          "tooltip": "ff8082ac",
+          "id": "ff8082ac"
+        },
+        {
+          "title": "batch-01",
+          "type": "batch",
+          "children": [
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_7fba.REF_9126dddb",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_7fba.REF_9126dddb",
+              "title": "AA04",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.7fba_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.7fba_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.7fba_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_c81b.REF_58d4ebc5",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_c81b.REF_58d4ebc5",
+              "title": "AA05",
+              "children": [
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.c81b_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.c81b_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.c81b_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_3c05.REF_0ada0334",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_3c05.REF_0ada0334",
+              "title": "AA03",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.3c05_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.3c05_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.3c05_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_f5f5.REF_aa17bba9",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_f5f5.REF_aa17bba9",
+              "title": "AA06",
+              "children": [
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.f5f5_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.f5f5_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.f5f5_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_4d60.REF_c3ed3358",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_4d60.REF_c3ed3358",
+              "title": "AA02",
+              "children": [
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170316.subtask",
+                  "title": "20170316.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170316.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170320.subtask",
+                  "title": "20170320.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170320.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170317.subtask",
+                  "title": "20170317.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170317.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170321.subtask",
+                  "title": "20170321.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170321.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170323.subtask",
+                  "title": "20170323.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170323.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170324.subtask",
+                  "title": "20170324.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170324.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170329.subtask",
+                  "title": "20170329.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170329.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170330.subtask",
+                  "title": "20170330.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170330.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170331.subtask",
+                  "title": "20170331.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170331.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170327.subtask",
+                  "title": "20170327.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170327.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170328.subtask",
+                  "title": "20170328.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170328.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170322.subtask",
+                  "title": "20170322.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.4d60_690f/20170322.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170327.subtask",
+                  "title": "20170327.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170327.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170328.subtask",
+                  "title": "20170328.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170328.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170329.subtask",
+                  "title": "20170329.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170329.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170330.subtask",
+                  "title": "20170330.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170330.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170407.subtask",
+                  "title": "20170407.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170407.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170406.subtask",
+                  "title": "20170406.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170406.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170331.subtask",
+                  "title": "20170331.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170331.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170405.subtask",
+                  "title": "20170405.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170405.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170410.subtask",
+                  "title": "20170410.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170410.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170411.subtask",
+                  "title": "20170411.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170411.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170412.subtask",
+                  "title": "20170412.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170412.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170413.subtask",
+                  "title": "20170413.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170413.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170417.subtask",
+                  "title": "20170417.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170417.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170414.subtask",
+                  "title": "20170414.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170414.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170418.subtask",
+                  "title": "20170418.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170418.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170420.subtask",
+                  "title": "20170420.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170420.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170419.subtask",
+                  "title": "20170419.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170419.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170421.subtask",
+                  "title": "20170421.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170421.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170425.subtask",
+                  "title": "20170425.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170425.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170424.subtask",
+                  "title": "20170424.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170424.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170426.subtask",
+                  "title": "20170426.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170426.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170427.subtask",
+                  "title": "20170427.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170427.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170428.subtask",
+                  "title": "20170428.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170428.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170503.subtask",
+                  "title": "20170503.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170503.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170502.subtask",
+                  "title": "20170502.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170502.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170504.subtask",
+                  "title": "20170504.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170504.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170508.subtask",
+                  "title": "20170508.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170508.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170510.subtask",
+                  "title": "20170510.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170510.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170509.subtask",
+                  "title": "20170509.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170509.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170511.subtask",
+                  "title": "20170511.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170511.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170512.subtask",
+                  "title": "20170512.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170512.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170515.subtask",
+                  "title": "20170515.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170515.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170505.subtask",
+                  "title": "20170505.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170630.4d60_690f/20170505.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_23e4.REF_c088f187",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_23e4.REF_c088f187",
+              "title": "AA09",
+              "children": [
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.23e4_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.23e4_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.23e4_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_d536.REF_d1dc750a",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_d536.REF_d1dc750a",
+              "title": "AA01",
+              "children": []
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_7e3c.REF_c01e6196",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_7e3c.REF_c01e6196",
+              "title": "AA08",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.7e3c_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.7e3c_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.7e3c_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            },
+            {
+              "batchId": "1a1e32eb",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_a72d.REF_b31fc1f9",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_a72d.REF_b31fc1f9",
+              "title": "AA07",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.a72d_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.a72d_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.a72d_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            }
+          ],
+          "tooltip": "1a1e32eb",
+          "id": "1a1e32eb"
+        },
+        {
+          "children": [
+            {
+              "batchId": "1ca7ebf8",
+              "type": "freeze",
+              "id": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_14e6.REF_a5763488",
+              "tooltip": "macro_condor_meta3_py_nxx1.FZ_FebA.SP_L.FC_14e6.REF_a5763488",
+              "title": "AA01",
+              "children": [
+                {
+                  "id": "20170313.subtask",
+                  "title": "20170313.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.14e6_690f/20170313.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170315.subtask",
+                  "title": "20170315.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.14e6_690f/20170315.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                },
+                {
+                  "id": "20170314.subtask",
+                  "title": "20170314.subtask",
+                  "pth": "/fe/simu/cli/chna/study_leader_avgcxl_AAxx/AA01/date^20170331.14e6_690f/20170314.subtask",
+                  "type": "subtask",
+                  "tooltip": ""
+                }
+              ]
+            }
+          ],
+          "type": "batch",
+          "id": "1ca7ebf8",
+          "tooltip": "1ca7ebf8",
+          "title": "batch-05"
+        }
+      ],
+      "tooltip": "leader_avgcxl",
+      "id": "leader_avgcxl"
+    }
+  ]
+}
