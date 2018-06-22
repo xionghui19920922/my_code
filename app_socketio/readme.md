@@ -8,3 +8,4 @@
         </br>$ cd examples/chat
         </br>$ npm install
         </br>$ npm start
+3. 主要功能就是通过socketio实现C++客户端与js的服务器的通讯
