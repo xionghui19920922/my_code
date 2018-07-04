@@ -1,0 +1,118 @@
+<table border="0" style="table-layout：fixed">
+    <tr id="m_node"></tr>
+    <tr id="m_nodeNeme"></tr>
+</table>
+<!-- <!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+</head>
+<body>
+    <div class="">
+        <table border="0" style="table-layout：fixed">
+            <tr id="m_node"></tr>
+            <tr id="m_nodeNeme"></tr>
+        </table>
+        <br></br>
+        <img id="m_folder" name="folder" src="./folder.png" alt="" text = "folder" style="position:absolute; left:100px" onclick="clickFolder()">
+        <h id="m_folderName" style="position:absolute; left:114px; top:130px">folder</h>
+
+        <img id="m_folder1" name="folder1" src="./folder.png" alt="" text = "folder1" style="position:absolute; left:100px" onclick="clickFolder1()">
+        <h id="m_folderName1" style="position:absolute; top:130px">folder1</h>
+
+        <img id="m_document" name="document" src="./document.png" alt="" style="position:absolute; left:100px; display:none">
+        <h id="m_documentName" style="position:absolute; left:95px; top:120px; display:none">document</h>
+
+        <img id="m_document1" name="document1" src="./document.png" alt="" style="position:absolute; left:100px; display:none">
+        <h id="m_documentName1" style="position:absolute; left:95px; top:120px; display:none">document1</h>
+    </div>
+    <script type="text/javascript">
+        m_folder1.style.left = parseInt(m_folder.style.left) + 100 + "px"
+        m_folderName1.style.left = parseInt(m_folderName.style.left) + 100 + "px"
+
+        // m_document1.style.left = parseInt(m_document.style.left) + 100 + "px"
+        // m_documentName1.style.left = parseInt(m_documentName.style.left) + 100 + "px"
+
+        // let modal = window.open('', 'modal')
+        // modal.document.write('<h1>Hello</h1>')
+
+        let str = m_folder.text
+
+        function clickFolder(){
+            document.getElementById('m_folder').style.display = "none";
+            document.getElementById('m_folderName').style.display = "none"
+
+            document.getElementById('m_document').style.display = "block"
+            document.getElementById('m_documentName').style.display = "block"
+
+            document.getElementById('m_folder1').style.display = "none";
+            document.getElementById('m_folderName1').style.display = "none"
+
+            document.getElementById('m_document1').style.display = "none"
+            document.getElementById('m_documentName1').style.display = "none"
+
+            let path = document.getElementById('m_path')
+            path.value = path.value + "/" + document.getElementById('m_folder').name
+        }
+
+        function clickFolder1(){
+            document.getElementById('m_folder').style.display = "none";
+            document.getElementById('m_folderName').style.display = "none"
+
+            document.getElementById('m_document').style.display = "none";
+            document.getElementById('m_documentName').style.display = "none"
+
+            document.getElementById('m_folder1').style.display = "none";
+            document.getElementById('m_folderName1').style.display = "none"
+
+            document.getElementById('m_document1').style.display = "block"
+            document.getElementById('m_documentName1').style.display = "block"
+            let path = document.getElementById('m_path')
+            path.value = path.value + "/" + document.getElementById('m_folder1').name
+        }
+
+        function inputChange(){
+            let path = document.getElementById('m_path').value
+            if ('/folder' == path) {
+                document.getElementById('m_folder').style.display = "none";
+                document.getElementById('m_folderName').style.display = "none"
+
+                document.getElementById('m_document').style.display = "block"
+                document.getElementById('m_documentName').style.display = "block"
+
+                document.getElementById('m_folder1').style.display = "none";
+                document.getElementById('m_folderName1').style.display = "none"
+
+                document.getElementById('m_document1').style.display = "none"
+                document.getElementById('m_documentName1').style.display = "none"
+            } else if ('/folder1' == path){
+                document.getElementById('m_folder').style.display = "none";
+                document.getElementById('m_folderName').style.display = "none"
+
+                document.getElementById('m_document').style.display = "none"
+                document.getElementById('m_documentName').style.display = "none"
+
+                document.getElementById('m_folder1').style.display = "none";
+                document.getElementById('m_folderName1').style.display = "none"
+
+                document.getElementById('m_document1').style.display = "block"
+                document.getElementById('m_documentName1').style.display = "block"
+            }
+            else if ('' == path) {
+                document.getElementById('m_folder').style.display = "block";
+                document.getElementById('m_folderName').style.display = "block"
+
+                document.getElementById('m_document').style.display = "none"
+                document.getElementById('m_documentName').style.display = "none"
+
+                document.getElementById('m_folder1').style.display = "block";
+                document.getElementById('m_folderName1').style.display = "block"
+
+                document.getElementById('m_document1').style.display = "none"
+                document.getElementById('m_documentName1').style.display = "none"
+            }
+        }
+
+    </script>
+</body>
+</html> -->

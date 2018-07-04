@@ -1,0 +1,13 @@
+{
+    "name": "app_fileSystem",
+    "version": "0.1.0",
+    "main": "./main.js",
+    "scripts": {
+        "start": "electron .",
+        "package": "electron-packager . app_fileSystem --win --out .. --arch=x64 --app-version=0.1.0 --electron-version=1.4.13 --icon=./folder.png"
+    },
+    "devDependencies": {
+        "electron-packager": "^12.1.0",
+        "electron-prebuilt": "^1.4.13"
+    }
+}
